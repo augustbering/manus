@@ -1,0 +1,298 @@
+= En robbit i skogen
+August Bering
+:toc-title: Innehåll
+:toc: 
+:type: book
+:chapter-signifier: Kapitel
+:pdf-page-size: [6in, 9in]
+:sectnums:
+:page-signifier: Sida
+:page-number-format: arabic
+:page-number-alignment: right
+:hardbreaks-option:
+////
+~/Downloads/asciidoctorj-2.5.7/bin/asciidoctorj -b pdf -d book test.adoc 
+////
+
+== Robbiten
+I ett hål i en kulle bodde en robbit. Du vet kanske inte vad en robbit är och det visste han inte riktigt själv heller, för han hade varken mamma eller pappa som kunde berätta det. Men han såg nästan ut som en vanlig människopojke, fast lite mindre. Som en ganska stor katt som står på bakbanen. Inte längre än så.
+
+Och det var lika bra det, för hålet han bodde i var inte stort. Det hade ingen riktig dörr, bara en sten som man kunde flytta åt sidan om man skulle in eller ut. Sen var det en lång tunnel med stenväggar, och det var tur att robbitar inte är mörkrädda för det fanns inget ljus i tunneln. 
+
+Om man nu lyckades flytta på stenen (och den var ganska tung) och knölade sig in tunneln så behövde man veta var man satte fötterna, för tunneln var full av finurliga fällor som robbiten hade byggt. Gick man på fel sten flög en yxa fram och hög huvudet av en eller så mosades man av en sten som föll från taket.
+
+Nu tycker ni kanske att det var en otrevlig liten rackare den där robbiten, som inte behandlade gästerna bättre än så. Men det var han inte alls. Det var bara det att skogen var full av farliga saker som gärna hade kommit ner och ätit upp en liten robbit om det hade gått. Saker som Borrare, Skräffor och Kubbisar och ännu värre saker som jag inte ens vet namnet på. 
+
+När man kommit ner genom tunneln öppnade sig ett stort rum och om man var en robbit kunde man ställa sig upprätt. Det fanns ljus i taket också och det var väl egentligen lite onödigt, för robbitar ser utmärkt i mörker även när det är kolsvart. Men de gillar hemtrevliga hålor och det är inte hemtrevligt med en håla i beckmörker. 
+
+Det är kanske bäst att jag berättar lite mer om robbitar, eller framför allt om just den här robbiten. Hans namn var Rolli. Efternamn hade han inget, inte vad han visste i alla fall. Hans huvud var stort som liten melon ungefär, mycket större en katts huvud (om man nu skulle jämföra Rolli med en katt på bakbenen). 
+
+Hans ögon var stora och helt kolsvarta, så man visste aldrig åt vilket håll han tittade. Och i pannan hade han en liten fläck som började lysa om han koncentrerade sig. På så vis behövde Rolli aldrig oroa sig för att gå vilse i mörkret, och det var bra, för Rolli var den typ av robbit som hade lätt för att oroa sig.
+
+Rolli bott här i hålan så länge han mindes och han hade försökt göra det så hemtrevligt det bara gick. I mitten på det stora rummet kom ett plåtrör ner från taket och under det hade Rolli sin spis. Där sprakade nästan alltid en munter brasa för han gillade som sagt att ha det mysigt omkring sig. 
+
+Väggarna hade Rolli prytt med en hel massa fina saker som han hade hittat i skogen. Det mesta visste han inte riktigt vad det var, men det säkert saker som De Gamle hade lämnat efter sig trodde han. Det fanns metallkedjor, plåtbitar i konstiga former, speglar och lyktor som tändes av sig själva när man gick förbi dem. Han hade till och med hittat en sorts speldosa som kunde sjunga om man tryckte på den. Den sjöng en sorglig sång om en flicka som hamnat på sjukhus och inte fick komma hem till sin mamma och pappa. Rolli visste inte vad ett sjukhus var men hade älskade att sitta och lyssna på visan. Fast den var så sorglig.
+
+Bredvid spisen stod Lukas korg och där låg Lukas för det mesta och vilade sig. Lukas, det var Rollis hund men det var inte någon vanlig hund. På fötterna hade han inga klor utan små hjul som han kunde sätta fart på och rulla fram om vägen var riktigt plan och fin. Det hände tyvärr ganska sällan för den fanns bara en enda liten snutt väg i närheten och den var gropig. Men Rolli misstänkte att Lukas skulle kunna ta sig fram nästan hur fort som helst bara han hittade en riktigt platt väg.
+
+Lukas var ingen vanlig hund och Lukas korg var inte någon vanlig korg heller, det var ett gammalt däck som Rolli hade hittat i väggen när han grävde ut den stora salen. Rolli visste inte vad ett däck var. Han anade att det nog inte var till för att lägga sin hund i. Men Lukas älskade ändå sin korg.
+
+Lukas var nästan lika hög som Rolli och en riktig klumpeduns så Rolli fick alltid stänga av fällorna i gången när Lukas skulle ut, annars skulle det gå illa. 
+
+== Gruffe
+////
+rolli hittar hålet, ber gruffe gräva innan skolan, de kommer för sent.
+skolan
+Flickan
+Rådet tar flickan.
+fågeln. 
+De befriar flickan, måste fixa detta.
+////
+
+Det var en tidig morgon i maj och man visste liksom att det skulle bli en fin dag och kanske att något märkligt skulle hända. Kanske var det fåglarna som lät annorlunda. Kanske var det något med ljuset. 
+
+Rolli hade vaknat tidigt och hade stirrat ivrigt på fläcken under skorstensröret som blev ljusare och ljusare ju mer dagen grydde. Det dög inte att vara för ivrig. Var man för tidig var Samlarna fortfarande ute på sina pass genom skogen och små robbitar var det bästa de visste, det hade Gruffe sagt.
+
+Så Rolli lyssnade efter Samlarnas tunga, skramlande steg, och på fågelkvittret. Och han tittade efter solens ljus genom skorstenen samtidigt som han tyst nynnade på en liten visa som han just komponerat.
+
+ En dag är en liten dag
+ Innan det blir en stor dag
+ En dag är en sorglig dag
+ Innan det blir en skojlig dag!
+ 
+Han var ganska nöjd med sin lilla visa och nynnade den gång på gång medan han gjorde sin morgongymnastik och Lukas följde honom med blicken. Det gick till så att han ställde sig mitt på golvet och böjde sig fram tills han kunde nudda sina tår och sjöng "En dag är en liten dag." Sen rätade han upp sig igen, "Innan det blir en stor dag.", och böjde sig _bakåt_ tills han kunde röra sina hälar! Jo, robbitar kan böja sig bakåt likadant som de böjer sig framåt. Detta gjorde han gång på gång.
+
+Till slut kunde han inte längre höra några Samlare och dessutom var han färdig med sin morgongymnastik. 
+Så han gick fram fram till en stor spak i väggen vid dörren och drog ner den. Ett dovt brummande hördes när fällorna stängdes av. Han lyssnade andlöst ett par sekunder.
+
+"OK Lukas, var så god!" sa han till hunden som följde honom ivrigt i hälarna, och Lukas klämde in sig i gången och ålade sig snabbt upp till markytan. Man kunde inte trott att Lukas var så stark, men han puttade lätt bort den stora stenen med nosen och var borta.
+
+Ute sken solen och Rolli satte sig ett ögonblick på den lilla bänken som han hade gjort själv av en trädstam och funderade på *pipan*. 
+Rolli hade givetvis aldrig rökt pipa. Han visste inte ens hur man gjorde. Men han hade sett i en gammal bok när en av De Gamle satt på en bänk (som liknade Rolis bänk!) och rökte en pipa. Han ville gärna sitta precis så och röka en pipa. 
+
+Men för att att röka en pipa måste han ju först tillverka en, och det hade han ingen aning om hur det gick till. Det var något med ett rör trodde han, där röken åkte, men vart kom röken ifrån? Rolli suckade, han skulle behövt ha någon att fråga.
+
+Från skogen hördes plötsligt knakande och ljudet av fötter som trummade mot marken. Och ut ur buskarna störtade en grävling full med barr i den grå pälsen. Han ruskade på sig och såg sig omkring. Bänken var tom.
+
+Rolla ålade sig ljudlöst han kunde genom orbunkarna 
+   
+"Rolli! Jag har hittat ett riktigt fynd!" hojtade han upphetsat. "Skynda dig!"
+"Men vi kommer för sent!"
+"För sent?" Gruffe såg frågande ut.
+"Till skolan!" sa Rolli tålmodigt.
+"Skolan? Skit i den, kom igen nu!"
+Grävlingen vände helt om och rusade iväg och Rolli fick skynda sig för att inte tappa bort honom. 
+
+Grävlingen, det var Gruffe det, och han var inte riktigt en sån grävling som du kanske tänker dig. Till att börja med kunde han prata och det gjorde han oftast mer än han borde. Sen kunde han ju gräva också och det var han riktigt bra på, för hans klor var inga vanliga klor. De var gjorda av en väldigt hård metall och Gruffe kunde gräva sig rätt genom sten om det skulle behövas. Även om det inte direkt behövdes faktiskt.
+
+Gruffe rusade fram rätt genom buskar och snår trots att Rolli hade sagt hundra gånger att han hellre gick på en stig eftersom han inte var en grävling. Rolli fick följa med bäst han kunde och aktade sig noga för att träffas av snärtande grenar som Gruffe böjde undan och sen släppte.
+
+Till slut kom de fram till en liten glänta och Rolli kunde se att Gruffe hade varit uppe tidigt för marken såg ut som en månkrater, full av gropar och hål. Ur botten av det största hålet stack ett par hjul upp.
+"Titta! Jag tror det är en... vad heter det, en bruss?" ropade Gruffe stolt. "Är den inte fin?"
+
+Rolli klättrade försiktigt ner i hålet. 
+"En buss tror jag det heter. Väldigt fin Gruffe!"
+Gruffe hoppade ner i hålet och gled längs kanten ända ner till ett av hjulen. 
+"Kan du gräva runt den lite mer?" undrade Rolli. "Vi kanske kan ta upp den och typ, bo i den?"
+Gruffe lade huvudet på sned som att han tänkte. Men Rolli visste att han bara tramsade, det fanns inget Gruffe gillade så mycket som att gräva. Att gräva fram bussen skulle gå på ett kick.
+"Sen måste vi få upp den också, undrar om Biffe orkar dra upp den?" funderade Rolli för sig själv medan han började borsta bort jord med handen för att försöka förstå hur stor den här mojängen var egentligen.
+
+En lite opraktiskt sak med Rolli var att bara hade en arm. Där den andra skulle suttit fanns bara ett sorts hål med några metallbitar i ett mönster av en stjärna. Men Rolli hade lärt sig göra det mesta med bara en arm och behövde han en extra hade han ju alltid munnen. Nu kanske du undrar vad Rolli var för en konstig pojke egentligen, som hade metallbitar i kroppen. Jag har ju redan sagt att han inte var nån vanlig pojke. Han var en robbit, och det finns mycket som du inte vet än om robbitar.
+
+Plötsligt upptäcke Rolli hur tyst det var. Han såg sig omkring. Var var Gruffe? 
+
+
+== Skolan
+Skolan var förstås ingen riktig skola. Det hade varit någon sorts restaurang sa fröken McDonald. Det fanns bord och bänkar som satt fast i golvet och en lång disk vid ena sidan där man kunnat beställa mat. Rolli tyckte att det var fantastiskt.
+
+Nu kunde man inte beställa nån mat där förstås, nu var det en skola, och bakom disken stod istället fröken McDonald, läraren. Hon var en lång robbit, dubbelt så stor som Rolli minst och hon visste allt. Ja, nästan allt i alla fall. Hon hade ett stort M målat på bröstet av sin gröna skjorta, likadant som det jättestora M som satt uppsatt på skolans tak. Det betydde såklart McDonald för hon var både skolans rektor och lärare.
+
+"Är det någon som kan svaret på den här frågan?" sa McDonald och blickade ut över klassen. "Vad är femton minus två?"
+Klassen var tyst. Det var en väldig blandning av "barn": rävungarna Micke och Molle, ett par sura tvättbjörnar som aldrig sa nånting, några robbitar, tre taxar och en randig katt som hette Totte. Robbitarna fick inte svara på mattefrågorna för robbitar är alldeles för bra på att räkna, så ägnade sig istället åt att försöka nypa varandra under bänken utan att fröken såg.
+"Totte, vill du svara kanske?" sa McDonald vänligt. Totte såg förlägen ut.
+"Eh, kan du säga det med köttbullar istället? Så känns det mer..."
+"Just det, femton minus två. Vad blir det?"
+"Det blir nog ungefär 10."
+McDonald var tyst.
+"Eller sju. Det kan ju bli femton också, om man glömde att ta bort två, eller hur?"
+"Men det glömde man inte."
+"Tjugo! Max tjugofem, det är jag säker på! Inte mer än hundra i alla fall."
+
+
+
+Plötsligt hördes knakande i buskarna och de ryggade undan, redo för en attack av... ja, vad det nu kunde vara. Men ut ur buskarna skuttade Lukas och det syntes att han var ivrig. Han sprang runt, runt i cirklar och skällde upphetsat.
+
+"Han har hittat nåt." sa Rolli och de följde efter hunden in i dunklet under träden. 
+
+== Flickan
+
+////
+Flickan måste hållas kvar menar chefen Molliso, för att inte dra till sig människorna.
+De bestämmer sig för att befria henne och föra henne till smaragdstaden. Lurar sig förbi vakterna.
+////
+Gläntan badade i solsken. Lukas rusade före dem till ett hål marken mellan rötterna på en stor ek. Han skällde upphetsat.
+
+"Vad är det Lukas?" frågade Rolli och gick fram till hunden.
+"Är det nåt där nere?"
+
+Lukas skällde igen och dök ner i hålet. Ett ögonblick senare hördes ett gnyende och han flög upp ur hålet igen som skjuten ur en kanon. Han stannade i bortre ändan av gläntan och skällde.
+
+Gruffe lunkade fram till hålet och sniffade i luften över hålet.
+"Det är en konstig lukt. Ingen räv i alla fall."
+"Omodi?"
+"Kanske, men ingen Omodi jag känner igen."
+
+Omodi, det är vad du och jag kallar helt vanliga djur. Djur som inte pratar. Djur utan metallklor och utan hjul på fötterna. Jag tror de flesta djur som du träffat är Omodi. Gruffe litade inte på Omodi.
+"Jag kan gräva ut den så får vi se." sa Gruffe.
+Rolli skakade på huvudet. "Vi vet ju inte vad det är, det kan vara farligt."
+"Äh, hur farligt kan det vara?" Gruffe visade tänderna i stort flin. Hans tänder var av samma metall som hans klor och kunde bita igenom det mesta. 
+Rolli log tillbaks. 
+"Jag har en bättre idé."
+
+Det porlade en liten bäck genom gläntan, ett par meter ifrån hålet. Rolli pekade mot hålet.
+"Kan du gräva ett dike Gruffe?"
+Gruffe rynkade ögonbrynen. "Ett dike? Varför då?"
+"Gör det bara så får du se."
+
+Gruffe ryckte på axlarna. Det ser ganska roligt ut när en grävling rycker på axlarna, det är mer som att det rycker i hela grävlingen. Men Rolli visste precis vad det betydde.
+
+Det tog bara ett par minuter för Gruffe att gräva ett dike från hålet bort till bäcken. Han stannade precis innan diket gick ihop med bäcken.
+"Om jag gräver vidare kommer ju vattnet rinna ner i diket?"
+"Just det."
+"Men ska vi vattna trädet?" undrade Gruffe förvånat. 
+"Du får se."
+
+Gruffe tog det sista grävtaget och vattnet rann ner i diket. Rolli sprang ivrigt efter och petade bort lite jordklumpar och stenar så att vattnet kom fram. Det började rinna ner i hålet.
+
+Efter bara ett par sekunder hördes hostande och spottande från hålet och ljudet av tassar mot jord kom snabbt uppåt. Rolli dök bakom en sten för säkerhets skull och drog Lukas med sig. Gruffe blottade klorna och kröp ihop.
+
+Ut ur hålet hoppade en varelse helt täckt i lera och smuts. Den hostade våldsamt och föll flämtande ihop i gräset. Den var ungefär lika stor som Rolli. Gruffe sneglade på Rolli.
+"Det där är ingen Omodi."
+Varelsen hämtade andan och kröp ihop vid trädets rätter. Den stirrade fientligt mot Gruffe genom ett tovigt hårsvall.
+
+Det var något bekant med den där varelsen, Rolli hade sett såna förr. Det var som att han inte riktigt kunde minnas trots att han i vanliga fall aldrig glömde någonting. Som att det var innlåst i ett bortglömt rum i hans minne. Men så tittade den på honom och han visste genast vad det var.
+"Det är en av De Gamle!" viskade han hänfört. "Det är en människoflicka!"
+
+Gruffe glodde på honom. Sen glodde han på varelsen ett par sekunder. Och skakade på huvudet.
+"Nej, det där ser inte ut som en människa."
+"För att den är smutsig Gruffe!"
+Rolli vände sig mot flickan. Hon var verkligen lortig, med jord i det långa, svarta håret, och helt dyblöt. Hon huttrade.
+
+"Förstår du vad vi säger?" frågade Rolli försiktigt. Flickan glodde på honom och sa ingenting.
+"Hon kanske pratar nåt annat språk"
+"Det är ingen människa, det kanske är en sån där... apa?" funderade Gruffe. Han släppte inte flickan med blicken och hade klorna framme.
+"Det är ingen apa Gruffe! Du ser väl det långa håret. Hon har ju nån sorts kläder på sig också, det har inte apor!"
+Gruffe såg misstänksamt på varelsen. "Det kanske är nån sorts päls, man vet aldrig med apor."
+
+Flickan, för det var en flicka, hade faktiskt kläder, även om de var så leriga att man inte riktigt såg hur hon var klädd. Men någon sorts byxor och en trasig tröja som var alldeles för stor. Och ett halsband av läder med ett smycke i runt halsen. Rolli betraktade det fascinerat. Det var en rund ring med slingrande ormar som satt fast i varandras svansar i mitten och bet i ringens kant.
+
+"Jag tycker vi skär den i små bitar och kokar, jag tror apgryta är verkligt gott!" sa Gruffe och smackade med tungan. Men då tog flickan ett skutt över roten och i nästa sekund satt hon på en gren uppe i trädet och glodde stridslystet ner på grävlingen. 
+
+"Där ser du att det inte är nån Omodi!" sa Rolli triumferande. "Hon förstår ju vad du säger!" Han vände sig upp mot flickan i trädet.
+"Vi ska inte alls äta upp dig, lyssna inte på den dumma grävlingen! Vi äter inte ens kött!"
+"Vi kan ju börja." mumlade Gruffe men Rolli gav honom en sträng blick och han blev tyst.
+
+== Molliso
+
+== Fågeln
+Rolli klättrade mödosamt uppför hålets kant. Det var ganska svårt, för jorden var sandig och rasade ner så fort man försökte få fäste. Väl uppe såg han sig omkring. Ingen Gruffe. Men han hörde ett ljud. Ett ljud som lät lite som fågelkvitter och lite som... Ja,nåt annat. Det kom från ett träd en bit bort.
+
+Rolli fick sicksacka mellan hålen Gruffe grävt för att komma fram till trädet och där stod han. Helt stilla framför en ek och tittade upp mot en liten blå fågel som satt på en gren en bit upp. Det var fågeln som sjöng. Eller sjöng är nog inte rätta ordet, den satt bara still på sin gren och lät. Utan att röra näbben! 
+
+"Vad är det för fågel?" frågade Rolli. Men grävlingen rörde inte en min, han stod bara blickstilla utan att blinka och stirrade på fågeln.
+"Gruffe?"
+Men hans vän verkade inte höra honom, han var helt trollbunden av den blå fågeln. Och nu tyckte Rolli inte att det lät så mycket som fågelsång egentligen. Mer som att fågeln pratade med Gruffe, fast med kvitterljud.
+
+Rolli sträckte ut armen och knuffade till Gruffe. Ingen reaktion. "Gruffe!" Han knuffade till lite hårdare och plötsligt vaknade grävlingen till liv och vred huvudet mot honom. Han stirrade på Rolli och nånting i blicken fick robbiten att ta ett kvickt steg bakåt. Det var i sista sekunden. Han undgick med en hårsmån att bli huggen mitt itu av Gruffes sylvassa metallklor!
+
+Rolli stannade inte för att fundera mer över det. Han tog ett långt skutt upp i närmsta träd och hann precis rädda sig undan Gruffes nästa utfall. Gruffes hugg skalade bort ett stort stycke bark och rev upp ett rejält rivsår i träet under. Det var tur att inte grävlingar klättrar så gärna i träd. 
+
+Rolli stannade och hämtade andan ett par meter upp och tittade skräckslagen ner på sin vän som gick varv på varv runt trädet för att försöka hitta ett sätt att komma upp.
+
+Men så plötsligt stannade Gruffe igen. Och så vände han sig mot fågeln och blev  lika stilla som förut. Vad var det med den där fågeln? På nåt sätt hypnotiserade den hans bäste vän att bli en galen mördarmaskin. Rolli tittade på den. Den var lite blåare än fåglar skulle vara, som om nån målat en vanlig fågel med lite extra färg. Inte särskilt stor, mindre än en skata. 
+
+Trädet den satt i var en bit bort och för att ta sig dit måste han passera en galen mördargrävling. Han var inte så säker på att han skulle klara sig undan de där klorna en gång till. 
+
+Det fanns en gren från fågelns träd som sträckte sig ganska nära Rollis träd. Om han kröp längst ut på grenen han satt på kanske det skulle gå att komma över. Om grenen höll. Och han inte tappade greppet. Det var dumt att bara ha en arm ibland. 
+
+Rolli kröp försiktigt ut på grenen. Han var nästan helt ovanför Gruffe nu. Och fågelns kvitter hade ändrats lite nu. Kanske skulle det göra grävlingen ännu galnare? Och få honom att försöka klättra upp i trädet? Rolli trodde att bara Gruffe ville skulle han nog visst kunna klättra i träd. Han hade ju klor att hugga tag med och var väldigt stark. 
+
+Rolli var nu så långt ut på grenen som han vågade och den bågnade och knakade betänkligt. Han sträckte ut sin arm mot fågelträdets gren men nej, det var fortfarande flera meter kvar. Han skulle få sitta här tills fågeln hade kvittrat färdigt och han var säker på att det var något riktigt hemskt den sa åt Gruffe att göra. 
+
+Han såg på fågelgrenen. Han sträckte ut armen igen och det var såklart fortfarande lika långt kvar men han bara måste ju! Och då, helt plötsligt, var det som att nånting lossnade i honom. Det klickade liksom till och hans hand sköt ut, ungefär som en grodas tunga när den fångar en fluga. Armen sträcktes ut, det tog bara en halv sekund, och så höll hans enda hand stadigt i fågelgrenen! Hans arm hade blivit flera meter lång.
+
+"Det där visste jag inte att jag kunde." mumlade Rolli för sig själv. Sen tog han ett djupt andetag och drog in armen igen, utan att släppa grenen. När armen drogs in följde Rolli med och innan han visste vad som hänt satt han i fågelträdet. Fågeln var bara ett par meter bort nu.
+
+Den hade just börjat på en ny typ av kvitter som lät ännu läskigare än det förra när en hand blixtsnabbt sköts ut. Handen grep tag i fågeln och tryckte ihop den till en liten boll. Det var Rollis hand såklart. Han hade bara en, men den var ovanligt stark. 
+
+Det kom inget blod. När han drog tillbaks armen igen och öppnade handen låg där bara några vassa blå skärvor och en massa små delar av någon metall. En klibbig, genomskinlig vätska rann ut mellan fingrarna. Jo, det __var__ nåt konstigt med den här fågeln.
+
+
+"Vad gör du där uppe?"
+Rolli vände blicken ner mot Gruffe som stod och tittade upp mot honom. Han såg yrvaken ut. Rolli släppte resterna av fågeln och grep tag i en gren. Han klev ut i luften och gled mjukt ner mot marken medans hans arm förlängdes som ett gummiband. Gruffe stod bara och gapade. Rolli tog mark i gräset bredvid Gruffe.
+
+Det tog en lång stund att förklara för Gruffe vad som hade hänt och inte förrän Rolli visade honom klomärkena från från hugget mot trädet gick Gruffe med på att han blivit tokig och attackerat sin vän. 
+"Vart kom den där fågeln ifrån?" frågade han.
+"Vet inte. Vi måste prata med McDonald." sa Rolli och undrade om McDonald verkligen skulle ha nåt svar på den frågan.
+"Pratade den där fågeln med dig?"
+Gruffe funderade.
+"Jag tror det. Det var som att den ville få mig att göra något. Men jag minns inte vad."
+
+== Sinclairs hästar
+
+== Smaragdstaden
+
+== Trollkarlen
+[sidebar]
+Trollkarlen känner igen Rolli (det är hans "bror")
+
+== Troll
+
+== Draken Nasaril (NASA)
+
+== Rymdstationen
+
+//// 
+Katten totte. Tillhör flickan? Dummast i stan.
+
+Den onda sjöjungfrun.
+
+Rolli luras ofta. "Huggla"
+
+En människoflicka dyker upp. Måste lämna skogen annars kommer fler människor och letar.
+Hans vän Toro tycker att de ska stycka henne och slänga gräva ner henne i skogen. Men det gör de inte, går till "staden" istället.
+
+Gruffe är en modifierad grävling som är expert på att gräva. Känner av signalerna i luften som får honom att gräva. Alla modifierade djur har override-koder, Ridkoder, får de veta av Trollkarlen. Mönster, ljud, blinkmönster kan vara ridkoder. Man får se till att inte titta. Omodi är omodifierade djur som är okänsliga för koder men inte kan kommunicera med de andra. Ofta svårt att veta vem som är normal eller omodi. Rollis ljus i pannan kan overrida allt, han lär sig gradvis att använda det.
+Trollkarl
+Roli är räddast av alla, och minst men ingen aning vill hjälpa flickan. 
+
+Rolli har en kod i huvudet som han inte vet vad den är till. Han har bara en arm. Hittar en konstig arm som utan fingrar. Det är ett datainterface.
+
+
+Rolli har huvudvärk sen en tid han fick ett slag. Nån sändare har aktiverats i hans huvud som kallar på Trollkarlen. Flickan pratar inte sen hennes mamma dödades. Hon rymde själv iväg för att hitta Rolli.
+
+Sinclair har också haft spejare ute, han startar sina fabriker nu. Har också snappat upp sändaren.
+
+Rolli minns inte något från innan han var i skogen.
+
+Troll.
+
+Drakar = Rymdskepp
+
+De måste till den Uråldriga draken som krashat på jorden och starta den, åka upp till månen (som är en rymdstation) och aktivera den. De är en superintelligens som kan stoppa Sinclair.
+
+
+Ondskan? Det har börjat dyka upp onda maskiner i skogen. De är ute efter Roli. Någon vill komma åt koden för att kunna styra drakarna.
+
+Rolli var en gång leksak åt en mäktig mans son, därför finns overriden i hans chip. När han var liten såg han en drake som kraschade och han fick en bit av den. Han har alltid undrat vad det var för något. 
+
+Han blir av med en av sina kodchip, så nu har Sinclair. Kontrollerar också drakar, de måste hitta moderndatorn först.
+
+Sinclair vill utrota alla människor och producera gem, för det är det han är byggd för. Därför måste alla fiender utrotas först.
+
+Det finns också "goda" maskiner som vill hjälpa människorna att återta kontrollen. 
+
+Datornätet bröts en gång sönder i flera delar, så ingen global AI kunde styra allt. 
+
+Han lär sig att flyga drakar. 
+////
