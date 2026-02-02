@@ -10,9 +10,12 @@ August Bering
 :page-number-format: arabic
 :page-number-alignment: right
 :hardbreaks-option:
+:imagesdir: robbiten
+:figure-caption!:
 ////
 ~/Downloads/asciidoctorj-2.5.7/bin/asciidoctorj -b pdf -d book test.adoc 
 ////
+
 
 == Robbiten
 I ett hål i en kulle bodde en robbit. Du vet kanske inte vad en robbit är och det visste han inte riktigt själv heller, för han hade varken mamma eller pappa som kunde berätta det. Men han såg nästan ut som en vanlig människopojke, fast lite mindre. Som en ganska stor katt som står på bakbanen. Inte längre än så.
@@ -21,23 +24,38 @@ Och det var lika bra det, för hålet han bodde i var inte stort. Det hade ingen
 
 Om man nu lyckades flytta på stenen (och den var ganska tung) och knölade sig in tunneln så behövde man veta var man satte fötterna, för tunneln var full av finurliga fällor som robbiten hade byggt. Gick man på fel sten flög en yxa fram och hög huvudet av en eller så mosades man av en sten som föll från taket.
 
-Nu tycker ni kanske att det var en otrevlig liten rackare den där robbiten, som inte behandlade gästerna bättre än så. Men det var han inte alls. Det var bara det att skogen var full av farliga saker som gärna hade kommit ner och ätit upp en liten robbit om det hade gått. Saker som Borrare, Skräffor och Kubbisar och ännu värre saker som jag inte ens vet namnet på. 
+Nu kanske ni tycker att den där robbiten var en otrevlig liten rackare som sätter upp en massa fällor. Men det är han inte alls, det är bara det att skogen är full av farliga saker som gärna hade kommit ner och ätit upp en liten robbit om det hade gått. Saker som Borrare, Skräffor och Kubbisar och ännu värre saker som jag inte ens vet namnet på. 
 
-När man kommit ner genom tunneln öppnade sig ett stort rum och om man var en robbit kunde man ställa sig upprätt. Det fanns ljus i taket också och det var väl egentligen lite onödigt, för robbitar ser utmärkt i mörker även när det är kolsvart. Men de gillar hemtrevliga hålor och det är inte hemtrevligt med en håla i beckmörker. 
+När man kommit ner genom tunneln är det ett stort rum och om man är lika liten som en robbit så är det ganska högt i tak. Det finns lampor i taket också, och jag tycker det är ganska så hemtrevligt. Robbitar gillar hemtrevliga hålor.
 
-Det är kanske bäst att jag berättar lite mer om robbitar, eller framför allt om just den här robbiten. Hans namn var Rolli. Efternamn hade han inget, inte vad han visste i alla fall. Hans huvud var stort som liten melon ungefär, mycket större en katts huvud (om man nu skulle jämföra Rolli med en katt på bakbenen). 
+Det är kanske bäst att jag berättar lite mer om robbitar, eller i alla fall om just den här robbiten. Han heter Tommy. Hans huvud är lika stort som liten melon ungefär, mycket större en katts huvud, om man nu skulle jämföra Tommy med en katt på bakbenen.
 
-Hans ögon var stora och helt kolsvarta, så man visste aldrig åt vilket håll han tittade. Och i pannan hade han en liten fläck som började lysa om han koncentrerade sig. På så vis behövde Rolli aldrig oroa sig för att gå vilse i mörkret, och det var bra, för Rolli var den typ av robbit som hade lätt för att oroa sig.
+Tommy går nästan alltid runt med en liten toppluva på huvudet, han ser nog lite ut som en tomte ungefär. Jag har försökt rita av honom här i boken. Ganska snyggt tycker jag. Tommy brukar snurra runt luvan på huvudet när han blir nervös och det blir han ganska ofta.
 
-Rolli bott här i hålan så länge han mindes och han hade försökt göra det så hemtrevligt det bara gick. I mitten på det stora rummet kom ett plåtrör ner från taket och under det hade Rolli sin spis. Där sprakade nästan alltid en munter brasa för han gillade som sagt att ha det mysigt omkring sig. 
+.Robbiten ser ut lite såhär
+image::robbiten.png[float="left"]
 
-Väggarna hade Rolli prytt med en hel massa fina saker som han hade hittat i skogen. Det mesta visste han inte riktigt vad det var, men det säkert saker som De Gamle hade lämnat efter sig trodde han. Det fanns metallkedjor, plåtbitar i konstiga former, speglar och lyktor som tändes av sig själva när man gick förbi dem. Han hade till och med hittat en sorts speldosa som kunde sjunga om man tryckte på den. Den sjöng en sorglig sång om en flicka som hamnat på sjukhus och inte fick komma hem till sin mamma och pappa. Rolli visste inte vad ett sjukhus var men hade älskade att sitta och lyssna på visan. Fast den var så sorglig.
+Tommy har bott här i hålan länge tror jag, han har i alla fall gjort det ganska hemtrevligt. Så hemtrevligt det nu går i en jordhåla. Såhär ser det ut:
 
-Bredvid spisen stod Lukas korg och där låg Lukas för det mesta och vilade sig. Lukas, det var Rollis hund men det var inte någon vanlig hund. På fötterna hade han inga klor utan små hjul som han kunde sätta fart på och rulla fram om vägen var riktigt plan och fin. Det hände tyvärr ganska sällan för den fanns bara en enda liten snutt väg i närheten och den var gropig. Men Rolli misstänkte att Lukas skulle kunna ta sig fram nästan hur fort som helst bara han hittade en riktigt platt väg.
+I mitten på det stora rummet kommer ett plåtrör ner från taket och under det har han ställt sin spis. I den kan man elda och det gör han nästa jämt för Tommy gillar mysiga brasor.
 
-Lukas var ingen vanlig hund och Lukas korg var inte någon vanlig korg heller, det var ett gammalt däck som Rolli hade hittat i väggen när han grävde ut den stora salen. Rolli visste inte vad ett däck var. Han anade att det nog inte var till för att lägga sin hund i. Men Lukas älskade ändå sin korg.
+På väggarna har han satt upp en hel massa fina saker som han hade hittat i skogen. Det mesta vet han nog inte riktigt vad det är, men det säkert saker som De Gamle hade lämnat. Jag ska berätta mer om De Gamle sen. 
 
-Lukas var nästan lika hög som Rolli och en riktig klumpeduns så Rolli fick alltid stänga av fällorna i gången när Lukas skulle ut, annars skulle det gå illa. 
+Det hänger metallkedjor, plåtbitar i konstiga former, speglar och lyktor som tänds av sig själva när man går förbi dem. Han har till och med hittat en sorts speldosa som kan sjunga om man trycker på den. Den sjunger en sorglig sång om en flicka som hamnat på sjukhus och inte fick komma hem till sin mamma och pappa. Tommy vet nog inte vad ett sjukhus är men hade älskar att sitta och lyssna på visan. Fast den var så sorglig.
+
+Bredvid spisen står min korg och där ligger jag för det mesta mesta och vilar mig.  
+
+.Tommys håla ser ut såhär
+image::tommys hala.png[]
+
+
+Jag är Tommys hund. Jag heter Lukas föresten, det kan man se för det står med stora bokstäver på min mage. Jag har bara varit Tommys hund i några veckor men det känns mycket längre. Han hittade mig i skogen, i ett hål i marken säger han. Det första jag minns var när jag slog upp ögonen här i hålan. Tommy stod lutad över mig och log.
+- Hej Lukas! sa han. Dina batterier var urladdade men nu är laddad igen!
+
+Jag visste inte att hundar gick på batteri, jag trodde vi åt hundben och köttbullar och sånt. Jag kanske inte är en riktig hund. Jag har hjul på tassarna och det tror jag inte riktiga hundar har. Tyvärr finns inga platta ställen att åka med hjulen på så jag får tassa omkring precis som vanliga hundar. Men jag känner på mig att jag nog hade varit supersnabb på en riktig väg! 
+
+Faktiskt är min hundkorg ingen riktig korg heller, det är ett gammalt bildäck. Men Tommy verkar tro att det är en hundkorg och jag älskar den så det gör inget att det är ett bildäck.
+
 
 == Gruffe
 ////
@@ -49,23 +67,28 @@ fågeln.
 De befriar flickan, måste fixa detta.
 ////
 
-Det var en tidig morgon i maj och man visste liksom att det skulle bli en fin dag och kanske att något märkligt skulle hända. Kanske var det fåglarna som lät annorlunda. Kanske var det något med ljuset. 
+Det var en tidig morgon i maj och man visste liksom att det skulle bli en fin dag och kanske att något märkligt skulle hända. Jag hade laddat färdigt mitt batteri och låg och tittade på den där fläcken under skorstensröret som blev ljusare och ljusare medan solen gick upp. Man fick inte vara för ivrig på morgonen, för då var Samlarna ute och spanade. Robbitar var det bästa de visste sa Tommy. 
 
-Rolli hade vaknat tidigt och hade stirrat ivrigt på fläcken under skorstensröret som blev ljusare och ljusare ju mer dagen grydde. Det dög inte att vara för ivrig. Var man för tidig var Samlarna fortfarande ute på sina pass genom skogen och små robbitar var det bästa de visste, det hade Gruffe sagt.
+Samlarna är riktigt läskiga typer. De ser ut som stora spindlar, nästan lika höga som träden, och de går runt och samlar ihop sånt de kan ha nytta av på natten. Vet inte vad de skulle ha för nytta av en liten robbit men jag tar inga risker. Jag tänker bita benen av dem om de försöker nåt med Tommy! 
 
-Så Rolli lyssnade efter Samlarnas tunga, skramlande steg, och på fågelkvittret. Och han tittade efter solens ljus genom skorstenen samtidigt som han tyst nynnade på en liten visa som han just komponerat.
+Tommy låg i sin säng. Han var vaken för han låg och sjöng på en liten visa. 
 
  En dag är en liten dag
  Innan det blir en stor dag
  En dag är en sorglig dag
  Innan det blir en skojlig dag!
  
-Han var ganska nöjd med sin lilla visa och nynnade den gång på gång medan han gjorde sin morgongymnastik och Lukas följde honom med blicken. Det gick till så att han ställde sig mitt på golvet och böjde sig fram tills han kunde nudda sina tår och sjöng "En dag är en liten dag." Sen rätade han upp sig igen, "Innan det blir en stor dag.", och böjde sig _bakåt_ tills han kunde röra sina hälar! Jo, robbitar kan böja sig bakåt likadant som de böjer sig framåt. Detta gjorde han gång på gång.
+Han var ganska nöjd med den där lilla visan tror jag, för han sjöng den igen och igen. Sen studsade plötsligt upp ur sänge och började med sin morgongymnastik.
 
-Till slut kunde han inte längre höra några Samlare och dessutom var han färdig med sin morgongymnastik. 
-Så han gick fram fram till en stor spak i väggen vid dörren och drog ner den. Ett dovt brummande hördes när fällorna stängdes av. Han lyssnade andlöst ett par sekunder.
+Tommys morgongymnastik går till så att han ställer sig mitt på golvet och böjer sig fram tills han kan nudda sina tår. Nu sjöng han "En dag är en liten dag." Sen rätade han upp sig igen. _Innan det blir en stor dag._ Och sen böjde han sig _bakåt_ tills han kunde röra sina hälar! Ja, robbitar kan böja sig bakåt likadant som de böjer sig framåt. 
 
-"OK Lukas, var så god!" sa han till hunden som följde honom ivrigt i hälarna, och Lukas klämde in sig i gången och ålade sig snabbt upp till markytan. Man kunde inte trott att Lukas var så stark, men han puttade lätt bort den stora stenen med nosen och var borta.
+Jag låg och tittade på Tommy som böjde sig fram och tillbaka, snabbare och snabbare ända tills han gjorde en extra snabb böj och tappade balansen och rullade iväg över golvet. Jag hoppade upp och rusade efter för att kolla att han inte hade gjort sig illa. Det hade han inte, men jag slickade honom i ansiktet ordentligt ändå.
+
+Tommy bara skrattade. "Jaja Lukas, du ska få komma ut!"
+
+Han gick bort till den stora spaken vid ingången och drog i den. Den där spaken styr alla livsfarliga fällor i gången och så fort jag hörde att de var avstängda rusade jag upp i gången utan att vänta på Tommy. 
+
+Jag knuffade undan den stora stenen som låg för öppningen med nosen och hoppade ut. Inga Samlare syntes till. Men några kaniner! De rusade jag efter men egentligen äter jag ju inte kaniner så jag bara jagade dem en stund mellan träden tills de dök ner i sina hålor. 
 
 Ute sken solen och Rolli satte sig ett ögonblick på den lilla bänken som han hade gjort själv av en trädstam och funderade på *pipan*. 
 Rolli hade givetvis aldrig rökt pipa. Han visste inte ens hur man gjorde. Men han hade sett i en gammal bok när en av De Gamle satt på en bänk (som liknade Rolis bänk!) och rökte en pipa. Han ville gärna sitta precis så och röka en pipa. 
@@ -79,7 +102,9 @@ Rolla ålade sig ljudlöst han kunde genom orbunkarna
 "Rolli! Jag har hittat ett riktigt fynd!" hojtade han upphetsat. "Skynda dig!"
 "Men vi kommer för sent!"
 "För sent?" Gruffe såg frågande ut.
-"Till skolan!" sa Rolli tålmodigt.
+Rolli började förklara att det faktiskt var en vanlig skoldag, men såklart hade Gruffe redan rusat iväg och lyssnade inte. Rolli rusade efter.
+
+Gruffe rafsade på som en rikti
 "Skolan? Skit i den, kom igen nu!"
 Grävlingen vände helt om och rusade iväg och Rolli fick skynda sig för att inte tappa bort honom. 
 
@@ -103,6 +128,11 @@ Plötsligt upptäcke Rolli hur tyst det var. Han såg sig omkring. Var var Gruff
 
 
 == Skolan
+
+////
+asdf
+////
+
 Skolan var förstås ingen riktig skola. Det hade varit någon sorts restaurang sa fröken McDonald. Det fanns bord och bänkar som satt fast i golvet och en lång disk vid ena sidan där man kunnat beställa mat. Rolli tyckte att det var fantastiskt.
 
 Nu kunde man inte beställa nån mat där förstås, nu var det en skola, och bakom disken stod istället fröken McDonald, läraren. Hon var en lång robbit, dubbelt så stor som Rolli minst och hon visste allt. Ja, nästan allt i alla fall. Hon hade ett stort M målat på bröstet av sin gröna skjorta, likadant som det jättestora M som satt uppsatt på skolans tak. Det betydde såklart McDonald för hon var både skolans rektor och lärare.
@@ -118,6 +148,8 @@ McDonald var tyst.
 "Men det glömde man inte."
 "Tjugo! Max tjugofem, det är jag säker på! Inte mer än hundra i alla fall."
 
+.Gruffe 
+image::gruffe.png[gruffe,align="center"]
 
 
 Plötsligt hördes knakande i buskarna och de ryggade undan, redo för en attack av... ja, vad det nu kunde vara. Men ut ur buskarna skuttade Lukas och det syntes att han var ivrig. Han sprang runt, runt i cirklar och skällde upphetsat.
@@ -253,6 +285,30 @@ Trollkarlen känner igen Rolli (det är hans "bror")
 == Rymdstationen
 
 //// 
+
+skolan
+tommy är en skolkare och ljuger ofta. får skäll. Iris skvallrar. McDonald får påhälsning av Molisso, Tommy hör att hon skälls ut och måste ha mer koll på eleverna, sinclair har startat sina fabriker och skickat ut spejare? men sticker ändå.
+
+bussen och fågeln.
+
+Rådet och Molisso har krismöte med "byn"
+Det finns spejare ute, alla måste akta sig och hålla sig inne på natten. Titta inte på dem, lyssna inte, de kan hypnotisera en. Tommy viskar åt gruffe att inte säga nåt, då får de aldrig vara ute i skogen själva. Lukas får upp ett spår, smiter iväg till Flickan. 
+
+Flickan
+Ska de säga till Molisso? Nej, tar med flickan till hålan. Flickan känner igen Tommy. 
+
+Hålan
+Men skvallerbyttan Iris ser dem. Springer och hämtar Molisso, de försöker smita men flickan i fångenskap.
+
+Molliso
+
+
+Fångade av troll. Flickan får honom att säga nånting, en "formel" och plötsligt ser han allt fåglarna ser. Ser hur de ska ta sig ut.
+
+Kommer till smaragdstaden. Flickan hade rymt för att leta reda på Tommy, 
+
+När tommy aktiverar sin sändare kan sinclair också se honom, så gör det bara i nödfall! Man behöver också ridkoder för att kontrollera varelser. Tommy kan hämta ut koderna med en sladd ur sovande eller döda varelser för att kontrollera andra, liknande. Eller ett nummer som står nånstans på dem? En trollformel. 
+
 Katten totte. Tillhör flickan? Dummast i stan.
 
 Den onda sjöjungfrun.
